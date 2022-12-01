@@ -1,4 +1,3 @@
-# Python-Project
 ## Bank Management System:
 - Allow the user to Register an new account
 - Allow user to Login for existing account
